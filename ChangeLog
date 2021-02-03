@@ -1,0 +1,19 @@
+
+
+2016-12-11 wolo  <wolo.wolski@gmail.com>
+
+	* v 0.2.0
+	* Compatibility with TYPO3 7.6
+	* Option to include short functions, or only ChromePhp script
+	* Fixed calls with type (warn, info, error) and added dedicated functions: cpInfo(), cpWarn(), cpError()
+
+2013-12-5 wolo  <wolo.wolski@gmail.com>
+
+	* v 0.1.2
+	* ChromePhp 4.1
+	* fix: Better compare ip for devIpMask test (cp didn't show on some server configurations)
+
+2013-02-2 wolo  <wolo.wolski@gmail.com>
+
+	* v 0.0.1
+	* First release
