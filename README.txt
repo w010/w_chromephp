@@ -1,8 +1,3 @@
-10.4 - compat updated version (looks like people still install this ext, so I made a compat release)
-IMPORTANT:
-This ext seems to work in 10.4, but the Chrome's ext Chrome Logger - seems to not.
-Let me know if you managed this to work.
-
 
 
 This extension includes Chrome Logger (previously known as ChromePhp) script. It also provides short functions to quick use

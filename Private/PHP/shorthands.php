@@ -7,7 +7,7 @@ if (!defined ('TYPO3_MODE')) {
  *
  * Copyright notice
  *
- * (c) 2013-2016 wolo.pl '.' studio
+ * (c) 2013-2021 wolo.pl '.' studio
  * All rights reserved
  *
  * This script is part of the Typo3 project. The Typo3 project is
